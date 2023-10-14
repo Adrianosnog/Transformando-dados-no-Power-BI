@@ -8,4 +8,5 @@
 5. Projeto 20 tem 25:00:00 horas totais       departamento 1
 6. Projeto 30 tem 55:00:00 horas totais       departamento 4
 
-14. Resposta: Por que mesclar demanda menos tempo e esforço se fosse em um bando de dados com um grande volume de dados possíveis a demora para atribuir item a item ira ser mais complexa demandando tempo e esforço.
+# Reposta Pergunta
+Item 14: Por que mesclar demanda menos tempo e esforço se fosse em um bando de dados com um grande volume de dados possíveis a demora para atribuir item a item ira ser mais complexa demandando tempo e esforço.
